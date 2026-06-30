@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dnagoor/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dnagoor/leetcodequestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dnagoor/leetcodequestions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dnagoor/leetcodequestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dnagoor/leetcodequestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dnagoor/leetcodequestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dnagoor/leetcodequestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
