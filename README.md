@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dnagoor/leetcodequestions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dnagoor/leetcodequestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dnagoor/leetcodequestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Dnagoor/leetcodequestions/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dnagoor/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dnagoor/leetcodequestions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [3620-network-recovery-pathways](https://github.com/Dnagoor/leetcodequestions/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dnagoor/leetcodequestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Dnagoor/leetcodequestions/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dnagoor/leetcodequestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Dnagoor/leetcodequestions/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -59,4 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dnagoor/leetcodequestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Dnagoor/leetcodequestions/tree/master/3620-network-recovery-pathways) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Dnagoor/leetcodequestions/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Dnagoor/leetcodequestions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
