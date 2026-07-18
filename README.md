@@ -116,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Dnagoor/leetcodequestions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Dnagoor/leetcodequestions/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Dnagoor/leetcodequestions/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/Dnagoor/leetcodequestions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dnagoor/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dnagoor/leetcodequestions/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Dnagoor/leetcodequestions/tree/master/0901-online-stock-span) |
 ## Sorting
 |  |
 | ------- |
@@ -150,5 +152,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Dnagoor/leetcodequestions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Dnagoor/leetcodequestions/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/Dnagoor/leetcodequestions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dnagoor/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Dnagoor/leetcodequestions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
