@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Dnagoor/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dnagoor/leetcodequestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Dnagoor/leetcodequestions/tree/master/0085-maximal-rectangle) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dnagoor/leetcodequestions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dnagoor/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
 | [1288-remove-covered-intervals](https://github.com/Dnagoor/leetcodequestions/tree/master/1288-remove-covered-intervals) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Dnagoor/leetcodequestions/tree/master/0085-maximal-rectangle) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dnagoor/leetcodequestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Dnagoor/leetcodequestions/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dnagoor/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Dnagoor/leetcodequestions/tree/master/3620-network-recovery-pathways) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dnagoor/leetcodequestions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Dnagoor/leetcodequestions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Dnagoor/leetcodequestions/tree/master/0155-min-stack) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dnagoor/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
 ## Design
@@ -141,5 +145,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Dnagoor/leetcodequestions/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dnagoor/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
