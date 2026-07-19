@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dnagoor/leetcodequestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Dnagoor/leetcodequestions/tree/master/0085-maximal-rectangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/Dnagoor/leetcodequestions/tree/master/0239-sliding-window-maximum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dnagoor/leetcodequestions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dnagoor/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dnagoor/leetcodequestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0128-longest-consecutive-sequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dnagoor/leetcodequestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dnagoor/leetcodequestions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dnagoor/leetcodequestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dnagoor/leetcodequestions/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dnagoor/leetcodequestions/tree/master/3532-path-existence-queries-in-a-graph-i) |
