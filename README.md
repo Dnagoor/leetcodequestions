@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dnagoor/leetcodequestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
