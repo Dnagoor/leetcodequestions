@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Dnagoor/leetcodequestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dnagoor/leetcodequestions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dnagoor/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
+| [1140-stone-game-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/Dnagoor/leetcodequestions/tree/master/1288-remove-covered-intervals) |
 | [1406-stone-game-iii](https://github.com/Dnagoor/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dnagoor/leetcodequestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Dnagoor/leetcodequestions/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dnagoor/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
+| [1140-stone-game-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dnagoor/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Dnagoor/leetcodequestions/tree/master/3620-network-recovery-pathways) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dnagoor/leetcodequestions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dnagoor/leetcodequestions/tree/master/1406-stone-game-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dnagoor/leetcodequestions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
@@ -221,14 +225,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dnagoor/leetcodequestions/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dnagoor/leetcodequestions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dnagoor/leetcodequestions/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
