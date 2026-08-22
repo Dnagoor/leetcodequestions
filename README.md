@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dnagoor/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Dnagoor/leetcodequestions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dnagoor/leetcodequestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0876-middle-of-the-linked-list) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Dnagoor/leetcodequestions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dnagoor/leetcodequestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Dnagoor/leetcodequestions/tree/master/1288-remove-covered-intervals) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Dnagoor/leetcodequestions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dnagoor/leetcodequestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0234-palindrome-linked-list) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dnagoor/leetcodequestions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
