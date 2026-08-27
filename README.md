@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dnagoor/leetcodequestions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dnagoor/leetcodequestions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dnagoor/leetcodequestions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dnagoor/leetcodequestions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dnagoor/leetcodequestions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dnagoor/leetcodequestions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Dnagoor/leetcodequestions/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dnagoor/leetcodequestions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dnagoor/leetcodequestions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Dnagoor/leetcodequestions/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dnagoor/leetcodequestions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Merge Sort
 |  |
 | ------- |
