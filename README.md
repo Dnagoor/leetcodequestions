@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dnagoor/leetcodequestions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Dnagoor/leetcodequestions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dnagoor/leetcodequestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Dnagoor/leetcodequestions/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dnagoor/leetcodequestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Dnagoor/leetcodequestions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Dnagoor/leetcodequestions/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/Dnagoor/leetcodequestions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Dnagoor/leetcodequestions/tree/master/1472-design-browser-history) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dnagoor/leetcodequestions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Dnagoor/leetcodequestions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dnagoor/leetcodequestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0206-reverse-linked-list) |
@@ -357,5 +360,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Dnagoor/leetcodequestions/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/Dnagoor/leetcodequestions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
