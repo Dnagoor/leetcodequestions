@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dnagoor/leetcodequestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Dnagoor/leetcodequestions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Dnagoor/leetcodequestions/tree/master/0051-n-queens) |
 | [0085-maximal-rectangle](https://github.com/Dnagoor/leetcodequestions/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/Dnagoor/leetcodequestions/tree/master/0239-sliding-window-maximum) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Dnagoor/leetcodequestions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Dnagoor/leetcodequestions/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -368,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Dnagoor/leetcodequestions/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/Dnagoor/leetcodequestions/tree/master/1472-design-browser-history) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Dnagoor/leetcodequestions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
