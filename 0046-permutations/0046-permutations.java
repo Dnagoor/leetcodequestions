@@ -1,23 +1,31 @@
 class Solution {
-    public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> list = new ArrayList<>();
-        boolean[] usedIndex = new boolean[nums.length];
-        per(nums,usedIndex,list,new ArrayList<>());
-        return list;
-        
-    }
-    public void per(int[] arr, boolean[] usedIdx , List<List<Integer>> list, List<Integer> ans){
-        if(ans.size()==arr.length){
+    public void per(int[] arr, int idx,List<List<Integer>> list){
+        if(idx==arr.length){
+            List<Integer> ans = new ArrayList<>();
+            for(int i : arr){
+                ans.add(i);
+            }
             list.add(new ArrayList<>(ans));
             return;
         }
-        for(int i =0;i<arr.length;i++){
-            if(usedIdx[i]) continue;
-            ans.add(arr[i]);
-            usedIdx[i]=true;
-            per(arr,usedIdx,list,ans);
-            usedIdx[i]=false;
-            ans.remove(ans.size()-1);
+        for(int i =idx;i<arr.length;i++){
+            swap(idx,i,arr);// swap
+            per(arr,idx+1,list);//call function
+            swap(idx,i,arr);// undo
         }
+    }
+
+
+    public void swap(int i , int j , int[] arr){
+        int temp = arr[i];
+        arr[i]=arr[j];
+        arr[j]=temp;
+    }
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> list = new ArrayList<>();
+        per(nums,0,list);
+        return list;
+
+        
     }
 }
