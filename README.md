@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dnagoor/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dnagoor/leetcodequestions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Dnagoor/leetcodequestions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Dnagoor/leetcodequestions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Dnagoor/leetcodequestions/tree/master/0051-n-queens) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dnagoor/leetcodequestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Dnagoor/leetcodequestions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Dnagoor/leetcodequestions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/0142-linked-list-cycle-ii) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Dnagoor/leetcodequestions/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Dnagoor/leetcodequestions/tree/master/0085-maximal-rectangle) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dnagoor/leetcodequestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Dnagoor/leetcodequestions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Dnagoor/leetcodequestions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Dnagoor/leetcodequestions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/0052-n-queens-ii) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Dnagoor/leetcodequestions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Dnagoor/leetcodequestions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/0052-n-queens-ii) |
 ## Tree
@@ -388,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dnagoor/leetcodequestions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Dnagoor/leetcodequestions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
