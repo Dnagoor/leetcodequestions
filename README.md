@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Dnagoor/leetcodequestions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Dnagoor/leetcodequestions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Dnagoor/leetcodequestions/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Dnagoor/leetcodequestions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Dnagoor/leetcodequestions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Dnagoor/leetcodequestions/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/Dnagoor/leetcodequestions/tree/master/0520-detect-capital) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Dnagoor/leetcodequestions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Dnagoor/leetcodequestions/tree/master/0115-distinct-subsequences) |
+| [0131-palindrome-partitioning](https://github.com/Dnagoor/leetcodequestions/tree/master/0131-palindrome-partitioning) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dnagoor/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/1140-stone-game-ii) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Dnagoor/leetcodequestions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Dnagoor/leetcodequestions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/0052-n-queens-ii) |
+| [0131-palindrome-partitioning](https://github.com/Dnagoor/leetcodequestions/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
