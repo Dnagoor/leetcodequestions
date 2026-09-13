@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0060-permutation-sequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dnagoor/leetcodequestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dnagoor/leetcodequestions/tree/master/1406-stone-game-iii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dnagoor/leetcodequestions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dnagoor/leetcodequestions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dnagoor/leetcodequestions/tree/master/3483-unique-3-digit-even-numbers) |
