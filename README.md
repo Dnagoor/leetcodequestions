@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Dnagoor/leetcodequestions/tree/master/0102-binary-tree-level-order-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dnagoor/leetcodequestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dnagoor/leetcodequestions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dnagoor/leetcodequestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -399,10 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Dnagoor/leetcodequestions/tree/master/0102-binary-tree-level-order-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dnagoor/leetcodequestions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Dnagoor/leetcodequestions/tree/master/0102-binary-tree-level-order-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dnagoor/leetcodequestions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Dancing Links
 |  |
