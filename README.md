@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Dnagoor/leetcodequestions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Dnagoor/leetcodequestions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Dnagoor/leetcodequestions/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Dnagoor/leetcodequestions/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/Dnagoor/leetcodequestions/tree/master/0239-sliding-window-maximum) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dnagoor/leetcodequestions/tree/master/0078-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Dnagoor/leetcodequestions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Dnagoor/leetcodequestions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Dnagoor/leetcodequestions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Dnagoor/leetcodequestions/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Dnagoor/leetcodequestions/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
