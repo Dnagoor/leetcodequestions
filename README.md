@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Dnagoor/leetcodequestions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dnagoor/leetcodequestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dnagoor/leetcodequestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dnagoor/leetcodequestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dnagoor/leetcodequestions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dnagoor/leetcodequestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Dnagoor/leetcodequestions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dnagoor/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/Dnagoor/leetcodequestions/tree/master/1472-design-browser-history) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dnagoor/leetcodequestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dnagoor/leetcodequestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Dnagoor/leetcodequestions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Dnagoor/leetcodequestions/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dnagoor/leetcodequestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2029-stone-game-ix](https://github.com/Dnagoor/leetcodequestions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dnagoor/leetcodequestions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dnagoor/leetcodequestions/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Dnagoor/leetcodequestions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Dnagoor/leetcodequestions/tree/master/0856-score-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Dnagoor/leetcodequestions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dnagoor/leetcodequestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Lifting
 |  |
