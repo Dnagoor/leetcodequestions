@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dnagoor/leetcodequestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dnagoor/leetcodequestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0128-longest-consecutive-sequence) |
+| [0238-product-of-array-except-self](https://github.com/Dnagoor/leetcodequestions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Dnagoor/leetcodequestions/tree/master/0239-sliding-window-maximum) |
 | [0605-can-place-flowers](https://github.com/Dnagoor/leetcodequestions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dnagoor/leetcodequestions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Dnagoor/leetcodequestions/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Dnagoor/leetcodequestions/tree/master/1872-stone-game-viii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
