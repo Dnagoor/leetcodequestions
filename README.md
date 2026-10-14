@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/Dnagoor/leetcodequestions/tree/master/1288-remove-covered-intervals) |
 | [1406-stone-game-iii](https://github.com/Dnagoor/leetcodequestions/tree/master/1406-stone-game-iii) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dnagoor/leetcodequestions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1472-design-browser-history](https://github.com/Dnagoor/leetcodequestions/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dnagoor/leetcodequestions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dnagoor/leetcodequestions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
