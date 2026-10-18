@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Dnagoor/leetcodequestions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Dnagoor/leetcodequestions/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Dnagoor/leetcodequestions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Dnagoor/leetcodequestions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dnagoor/leetcodequestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dnagoor/leetcodequestions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dnagoor/leetcodequestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Dnagoor/leetcodequestions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dnagoor/leetcodequestions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dnagoor/leetcodequestions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
