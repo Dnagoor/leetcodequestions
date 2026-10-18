@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dnagoor/leetcodequestions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Dnagoor/leetcodequestions/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dnagoor/leetcodequestions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Dnagoor/leetcodequestions/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/Dnagoor/leetcodequestions/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Dnagoor/leetcodequestions/tree/master/0678-valid-parenthesis-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Dnagoor/leetcodequestions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dnagoor/leetcodequestions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dnagoor/leetcodequestions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Dnagoor/leetcodequestions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dnagoor/leetcodequestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Dnagoor/leetcodequestions/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Dnagoor/leetcodequestions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dnagoor/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/0940-distinct-subsequences-ii) |
