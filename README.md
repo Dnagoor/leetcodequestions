@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dnagoor/leetcodequestions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dnagoor/leetcodequestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Dnagoor/leetcodequestions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Dnagoor/leetcodequestions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dnagoor/leetcodequestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dnagoor/leetcodequestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0042-trapping-rain-water) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dnagoor/leetcodequestions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Dnagoor/leetcodequestions/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/Dnagoor/leetcodequestions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Dnagoor/leetcodequestions/tree/master/0678-valid-parenthesis-string) |
