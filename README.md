@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Dnagoor/leetcodequestions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dnagoor/leetcodequestions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/Dnagoor/leetcodequestions/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Dnagoor/leetcodequestions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Dnagoor/leetcodequestions/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dnagoor/leetcodequestions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Dnagoor/leetcodequestions/tree/master/1406-stone-game-iii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Dnagoor/leetcodequestions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Dnagoor/leetcodequestions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dnagoor/leetcodequestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Dnagoor/leetcodequestions/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dnagoor/leetcodequestions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dnagoor/leetcodequestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dnagoor/leetcodequestions/tree/master/2685-count-the-number-of-complete-components) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dnagoor/leetcodequestions/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Dnagoor/leetcodequestions/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/Dnagoor/leetcodequestions/tree/master/0835-image-overlap) |
+| [1267-count-servers-that-communicate](https://github.com/Dnagoor/leetcodequestions/tree/master/1267-count-servers-that-communicate) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dnagoor/leetcodequestions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Dnagoor/leetcodequestions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Dnagoor/leetcodequestions/tree/master/3665-twisted-mirror-path-count) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Dnagoor/leetcodequestions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Dnagoor/leetcodequestions/tree/master/0872-leaf-similar-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dnagoor/leetcodequestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Dnagoor/leetcodequestions/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Dnagoor/leetcodequestions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dnagoor/leetcodequestions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dnagoor/leetcodequestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dnagoor/leetcodequestions/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/Dnagoor/leetcodequestions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Dnagoor/leetcodequestions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dnagoor/leetcodequestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Dnagoor/leetcodequestions/tree/master/2685-count-the-number-of-complete-components) |
@@ -550,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Dnagoor/leetcodequestions/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Dnagoor/leetcodequestions/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Dnagoor/leetcodequestions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Merge Sort
